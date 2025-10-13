@@ -1,0 +1,16 @@
+D:\181145\Sortowanie przez scalanie\bin\Debug\net6.0-windows\Sortowanie przez scalanie.exe
+D:\181145\Sortowanie przez scalanie\bin\Debug\net6.0-windows\Sortowanie przez scalanie.deps.json
+D:\181145\Sortowanie przez scalanie\bin\Debug\net6.0-windows\Sortowanie przez scalanie.runtimeconfig.json
+D:\181145\Sortowanie przez scalanie\bin\Debug\net6.0-windows\Sortowanie przez scalanie.dll
+D:\181145\Sortowanie przez scalanie\bin\Debug\net6.0-windows\Sortowanie przez scalanie.pdb
+D:\181145\Sortowanie przez scalanie\obj\Debug\net6.0-windows\Sortowanie_przez_scalanie.Form1.resources
+D:\181145\Sortowanie przez scalanie\obj\Debug\net6.0-windows\Sortowanie przez scalanie.csproj.GenerateResource.cache
+D:\181145\Sortowanie przez scalanie\obj\Debug\net6.0-windows\Sortowanie przez scalanie.GeneratedMSBuildEditorConfig.editorconfig
+D:\181145\Sortowanie przez scalanie\obj\Debug\net6.0-windows\Sortowanie przez scalanie.AssemblyInfoInputs.cache
+D:\181145\Sortowanie przez scalanie\obj\Debug\net6.0-windows\Sortowanie przez scalanie.AssemblyInfo.cs
+D:\181145\Sortowanie przez scalanie\obj\Debug\net6.0-windows\Sortowanie przez scalanie.csproj.CoreCompileInputs.cache
+D:\181145\Sortowanie przez scalanie\obj\Debug\net6.0-windows\Sortowanie przez scalanie.dll
+D:\181145\Sortowanie przez scalanie\obj\Debug\net6.0-windows\refint\Sortowanie przez scalanie.dll
+D:\181145\Sortowanie przez scalanie\obj\Debug\net6.0-windows\Sortowanie przez scalanie.pdb
+D:\181145\Sortowanie przez scalanie\obj\Debug\net6.0-windows\Sortowanie przez scalanie.genruntimeconfig.cache
+D:\181145\Sortowanie przez scalanie\obj\Debug\net6.0-windows\ref\Sortowanie przez scalanie.dll
