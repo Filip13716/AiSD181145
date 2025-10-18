@@ -17,7 +17,44 @@ namespace Sortowanie_przez_scalanie
 
         private void Scal(int[] tab, int a, int s, int b)
         {
-            
+            List<int> temp1 = new List<int>();
+            List<int> temp2 = new List<int>();
+
+            for (int l = a; l < s+1; l++) temp1.Add(tab[l]);
+            for (int l = s+1; l<= b;  l++) temp2.Add(tab[l]);
+
+            int i = 0;
+            int j = 0;
+            int k = a;
+
+            while (i < temp1.Count && j < temp2.Count)
+            {
+                if (temp1[i] <= temp2[j])
+                {
+                    tab[k] = temp1[i];
+                    i++;
+                }
+                else
+                {
+                    tab[k] = temp2[j];
+                    j++;
+                }
+                k++;
+            }
+
+            while (i < temp1.Count)
+            {
+                tab[k] = temp1[i];
+                i++;
+                k++;
+            }
+
+            while (j < temp2.Count)
+            {
+                tab[k] = temp2[j];
+                j++;
+                k++;
+            }
         }
 
         public Form1()
@@ -48,6 +85,8 @@ namespace Sortowanie_przez_scalanie
         private void bt_sort_Click(object sender, EventArgs e)
         {
             Sc(tab, 0, tab.Length - 1);
+            lb_after.Text = "Tablica po sortowaniu: " + String.Join(", ", tab);
+            lb_after.Visible = true;
         }
     }
 }

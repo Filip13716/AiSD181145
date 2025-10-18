@@ -14,3 +14,20 @@ D:\181145\Sortowanie przez scalanie\obj\Debug\net6.0-windows\refint\Sortowanie p
 D:\181145\Sortowanie przez scalanie\obj\Debug\net6.0-windows\Sortowanie przez scalanie.pdb
 D:\181145\Sortowanie przez scalanie\obj\Debug\net6.0-windows\Sortowanie przez scalanie.genruntimeconfig.cache
 D:\181145\Sortowanie przez scalanie\obj\Debug\net6.0-windows\ref\Sortowanie przez scalanie.dll
+C:\Users\filip\Documents\GitHub\AiSD181145\Sortowanie przez scalanie\bin\Debug\net6.0-windows\Sortowanie przez scalanie.exe
+C:\Users\filip\Documents\GitHub\AiSD181145\Sortowanie przez scalanie\bin\Debug\net6.0-windows\Sortowanie przez scalanie.deps.json
+C:\Users\filip\Documents\GitHub\AiSD181145\Sortowanie przez scalanie\bin\Debug\net6.0-windows\Sortowanie przez scalanie.runtimeconfig.json
+C:\Users\filip\Documents\GitHub\AiSD181145\Sortowanie przez scalanie\bin\Debug\net6.0-windows\Sortowanie przez scalanie.dll
+C:\Users\filip\Documents\GitHub\AiSD181145\Sortowanie przez scalanie\bin\Debug\net6.0-windows\Sortowanie przez scalanie.pdb
+C:\Users\filip\Documents\GitHub\AiSD181145\Sortowanie przez scalanie\obj\Debug\net6.0-windows\Sortowanie_przez_scalanie.Form1.resources
+C:\Users\filip\Documents\GitHub\AiSD181145\Sortowanie przez scalanie\obj\Debug\net6.0-windows\Sortowanie przez scalanie.csproj.GenerateResource.cache
+C:\Users\filip\Documents\GitHub\AiSD181145\Sortowanie przez scalanie\obj\Debug\net6.0-windows\Sortowanie przez scalanie.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\filip\Documents\GitHub\AiSD181145\Sortowanie przez scalanie\obj\Debug\net6.0-windows\Sortowanie przez scalanie.AssemblyInfoInputs.cache
+C:\Users\filip\Documents\GitHub\AiSD181145\Sortowanie przez scalanie\obj\Debug\net6.0-windows\Sortowanie przez scalanie.AssemblyInfo.cs
+C:\Users\filip\Documents\GitHub\AiSD181145\Sortowanie przez scalanie\obj\Debug\net6.0-windows\Sortowanie przez scalanie.csproj.CoreCompileInputs.cache
+C:\Users\filip\Documents\GitHub\AiSD181145\Sortowanie przez scalanie\obj\Debug\net6.0-windows\Sortowanie przez scalanie.sourcelink.json
+C:\Users\filip\Documents\GitHub\AiSD181145\Sortowanie przez scalanie\obj\Debug\net6.0-windows\Sortowanie przez scalanie.dll
+C:\Users\filip\Documents\GitHub\AiSD181145\Sortowanie przez scalanie\obj\Debug\net6.0-windows\refint\Sortowanie przez scalanie.dll
+C:\Users\filip\Documents\GitHub\AiSD181145\Sortowanie przez scalanie\obj\Debug\net6.0-windows\Sortowanie przez scalanie.pdb
+C:\Users\filip\Documents\GitHub\AiSD181145\Sortowanie przez scalanie\obj\Debug\net6.0-windows\Sortowanie przez scalanie.genruntimeconfig.cache
+C:\Users\filip\Documents\GitHub\AiSD181145\Sortowanie przez scalanie\obj\Debug\net6.0-windows\ref\Sortowanie przez scalanie.dll

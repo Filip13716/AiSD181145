@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Sortowanie przez scalanie")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a038dd58349ab0d904fea4afdbcb4b4cd9aad8d6")]
 [assembly: System.Reflection.AssemblyProductAttribute("Sortowanie przez scalanie")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Sortowanie przez scalanie")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
