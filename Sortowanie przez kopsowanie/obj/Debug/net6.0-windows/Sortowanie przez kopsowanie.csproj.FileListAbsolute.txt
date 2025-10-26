@@ -1,0 +1,17 @@
+C:\Users\filip\Documents\GitHub\AiSD181145\Sortowanie przez kopsowanie\bin\Debug\net6.0-windows\Sortowanie przez kopsowanie.exe
+C:\Users\filip\Documents\GitHub\AiSD181145\Sortowanie przez kopsowanie\bin\Debug\net6.0-windows\Sortowanie przez kopsowanie.deps.json
+C:\Users\filip\Documents\GitHub\AiSD181145\Sortowanie przez kopsowanie\bin\Debug\net6.0-windows\Sortowanie przez kopsowanie.runtimeconfig.json
+C:\Users\filip\Documents\GitHub\AiSD181145\Sortowanie przez kopsowanie\bin\Debug\net6.0-windows\Sortowanie przez kopsowanie.dll
+C:\Users\filip\Documents\GitHub\AiSD181145\Sortowanie przez kopsowanie\bin\Debug\net6.0-windows\Sortowanie przez kopsowanie.pdb
+C:\Users\filip\Documents\GitHub\AiSD181145\Sortowanie przez kopsowanie\obj\Debug\net6.0-windows\Sortowanie_przez_kopsowanie.Form1.resources
+C:\Users\filip\Documents\GitHub\AiSD181145\Sortowanie przez kopsowanie\obj\Debug\net6.0-windows\Sortowanie przez kopsowanie.csproj.GenerateResource.cache
+C:\Users\filip\Documents\GitHub\AiSD181145\Sortowanie przez kopsowanie\obj\Debug\net6.0-windows\Sortowanie przez kopsowanie.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\filip\Documents\GitHub\AiSD181145\Sortowanie przez kopsowanie\obj\Debug\net6.0-windows\Sortowanie przez kopsowanie.AssemblyInfoInputs.cache
+C:\Users\filip\Documents\GitHub\AiSD181145\Sortowanie przez kopsowanie\obj\Debug\net6.0-windows\Sortowanie przez kopsowanie.AssemblyInfo.cs
+C:\Users\filip\Documents\GitHub\AiSD181145\Sortowanie przez kopsowanie\obj\Debug\net6.0-windows\Sortowanie przez kopsowanie.csproj.CoreCompileInputs.cache
+C:\Users\filip\Documents\GitHub\AiSD181145\Sortowanie przez kopsowanie\obj\Debug\net6.0-windows\Sortowanie przez kopsowanie.sourcelink.json
+C:\Users\filip\Documents\GitHub\AiSD181145\Sortowanie przez kopsowanie\obj\Debug\net6.0-windows\Sortowanie przez kopsowanie.dll
+C:\Users\filip\Documents\GitHub\AiSD181145\Sortowanie przez kopsowanie\obj\Debug\net6.0-windows\refint\Sortowanie przez kopsowanie.dll
+C:\Users\filip\Documents\GitHub\AiSD181145\Sortowanie przez kopsowanie\obj\Debug\net6.0-windows\Sortowanie przez kopsowanie.pdb
+C:\Users\filip\Documents\GitHub\AiSD181145\Sortowanie przez kopsowanie\obj\Debug\net6.0-windows\Sortowanie przez kopsowanie.genruntimeconfig.cache
+C:\Users\filip\Documents\GitHub\AiSD181145\Sortowanie przez kopsowanie\obj\Debug\net6.0-windows\ref\Sortowanie przez kopsowanie.dll

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Sortowanie przez kopsowanie")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+04b559b7de07df8112ab1d7c741349a3b68b2661")]
 [assembly: System.Reflection.AssemblyProductAttribute("Sortowanie przez kopsowanie")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Sortowanie przez kopsowanie")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
