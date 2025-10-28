@@ -9,41 +9,76 @@ namespace Listy_dwókierunkowe
     internal class Lista
     {
         public int LiczbaElementow;
-        Element head;
-        Element tail;
+        public Element head;
+        public Element tail;
 
         public void DodajPo(Element e, int n)
         {
-            Element temp = e.next;
             Element nowy = new Element(n);
-            e.next = nowy;
+            Element temp = e.next;
+
+            nowy.prev = e;
             nowy.next = temp;
 
-            if (e == tail) tail = nowy;
+            if (temp != null)
+                temp.prev = nowy;
+
+            e.next = nowy;
+
+            if (e == tail)
+                tail = nowy;
+
             LiczbaElementow++;
         }
+
         public void DodajPrzed(Element e, int n)
         {
-            Element temp = e.prev;
             Element nowy = new Element(n);
-            e.prev = nowy;
+            Element temp = e.prev;
+
+            nowy.next = e;
             nowy.prev = temp;
 
-            if(e == head) head = nowy;
+            e.prev = nowy;
+
+            if (temp != null)
+                temp.next = nowy;
+
+            if (e == head)
+                head = nowy;
+
             LiczbaElementow++;
         }
+
+
         public void Dodaj(int n)
         {
-            if(this.head == null)
+            if (this.head == null)
             {
                 this.head = new Element(n);
                 this.tail = head;
+                LiczbaElementow++;
             }
             else
             {
                 DodajPo(this.tail, n);
             }
-            LiczbaElementow++;
+        }
+
+
+        public int[] ToList()
+        {
+            int[] tab = new int[this.LiczbaElementow];
+
+            Element ptr = this.head;
+
+            for(int i = 0; i < tab.Length; i++)
+            {
+                tab[i] = ptr.value;
+                ptr = ptr.next;
+            }
+
+            return tab;
         }
     }
 }

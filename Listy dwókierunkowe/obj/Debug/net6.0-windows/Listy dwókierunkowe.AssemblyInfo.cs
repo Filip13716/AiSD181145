@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Listy dwókierunkowe")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+94283cff0fe7e8056d3c1d58955ec4ddfd390eb7")]
 [assembly: System.Reflection.AssemblyProductAttribute("Listy dwókierunkowe")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Listy dwókierunkowe")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

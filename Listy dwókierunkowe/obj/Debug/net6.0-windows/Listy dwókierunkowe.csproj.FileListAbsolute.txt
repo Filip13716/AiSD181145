@@ -14,3 +14,20 @@ D:\181145\Listy dwókierunkowe\obj\Debug\net6.0-windows\refint\Listy dwókierunk
 D:\181145\Listy dwókierunkowe\obj\Debug\net6.0-windows\Listy dwókierunkowe.pdb
 D:\181145\Listy dwókierunkowe\obj\Debug\net6.0-windows\Listy dwókierunkowe.genruntimeconfig.cache
 D:\181145\Listy dwókierunkowe\obj\Debug\net6.0-windows\ref\Listy dwókierunkowe.dll
+C:\Users\filip\Documents\GitHub\AiSD181145\Listy dwókierunkowe\obj\Debug\net6.0-windows\Listy_dwókierunkowe.Form1.resources
+C:\Users\filip\Documents\GitHub\AiSD181145\Listy dwókierunkowe\obj\Debug\net6.0-windows\Listy dwókierunkowe.csproj.GenerateResource.cache
+C:\Users\filip\Documents\GitHub\AiSD181145\Listy dwókierunkowe\obj\Debug\net6.0-windows\Listy dwókierunkowe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\filip\Documents\GitHub\AiSD181145\Listy dwókierunkowe\obj\Debug\net6.0-windows\Listy dwókierunkowe.AssemblyInfoInputs.cache
+C:\Users\filip\Documents\GitHub\AiSD181145\Listy dwókierunkowe\obj\Debug\net6.0-windows\Listy dwókierunkowe.AssemblyInfo.cs
+C:\Users\filip\Documents\GitHub\AiSD181145\Listy dwókierunkowe\obj\Debug\net6.0-windows\Listy dwókierunkowe.csproj.CoreCompileInputs.cache
+C:\Users\filip\Documents\GitHub\AiSD181145\Listy dwókierunkowe\obj\Debug\net6.0-windows\Listy dwókierunkowe.sourcelink.json
+C:\Users\filip\Documents\GitHub\AiSD181145\Listy dwókierunkowe\obj\Debug\net6.0-windows\Listy dwókierunkowe.dll
+C:\Users\filip\Documents\GitHub\AiSD181145\Listy dwókierunkowe\obj\Debug\net6.0-windows\refint\Listy dwókierunkowe.dll
+C:\Users\filip\Documents\GitHub\AiSD181145\Listy dwókierunkowe\obj\Debug\net6.0-windows\Listy dwókierunkowe.pdb
+C:\Users\filip\Documents\GitHub\AiSD181145\Listy dwókierunkowe\bin\Debug\net6.0-windows\Listy dwókierunkowe.exe
+C:\Users\filip\Documents\GitHub\AiSD181145\Listy dwókierunkowe\bin\Debug\net6.0-windows\Listy dwókierunkowe.deps.json
+C:\Users\filip\Documents\GitHub\AiSD181145\Listy dwókierunkowe\bin\Debug\net6.0-windows\Listy dwókierunkowe.runtimeconfig.json
+C:\Users\filip\Documents\GitHub\AiSD181145\Listy dwókierunkowe\bin\Debug\net6.0-windows\Listy dwókierunkowe.dll
+C:\Users\filip\Documents\GitHub\AiSD181145\Listy dwókierunkowe\bin\Debug\net6.0-windows\Listy dwókierunkowe.pdb
+C:\Users\filip\Documents\GitHub\AiSD181145\Listy dwókierunkowe\obj\Debug\net6.0-windows\Listy dwókierunkowe.genruntimeconfig.cache
+C:\Users\filip\Documents\GitHub\AiSD181145\Listy dwókierunkowe\obj\Debug\net6.0-windows\ref\Listy dwókierunkowe.dll
