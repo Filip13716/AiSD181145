@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Sortowanie przez wstawianie i wybieranie")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d44b0049ba737bd59bc8897abbf6924f736593cd")]
 [assembly: System.Reflection.AssemblyProductAttribute("Sortowanie przez wstawianie i wybieranie")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Sortowanie przez wstawianie i wybieranie")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -7,16 +7,20 @@
       "RelativeMoniker": "D:0:0:{ECF01392-43F4-43BD-A277-F90F41ED7CFE}|Listy dw\u00F3kierunkowe.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ECF01392-43F4-43BD-A277-F90F41ED7CFE}|Listy dw\u00F3kierunkowe.csproj|c:\\users\\filip\\documents\\github\\aisd181145\\listy dw\u00F3kierunkowe\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ECF01392-43F4-43BD-A277-F90F41ED7CFE}|Listy dw\u00F3kierunkowe.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{ECF01392-43F4-43BD-A277-F90F41ED7CFE}|Listy dw\u00F3kierunkowe.csproj|c:\\users\\filip\\documents\\github\\aisd181145\\listy dw\u00F3kierunkowe\\slownik.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECF01392-43F4-43BD-A277-F90F41ED7CFE}|Listy dw\u00F3kierunkowe.csproj|solutionrelative:slownik.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{ECF01392-43F4-43BD-A277-F90F41ED7CFE}|Listy dw\u00F3kierunkowe.csproj|c:\\users\\filip\\documents\\github\\aisd181145\\listy dw\u00F3kierunkowe\\lista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{ECF01392-43F4-43BD-A277-F90F41ED7CFE}|Listy dw\u00F3kierunkowe.csproj|solutionrelative:lista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ECF01392-43F4-43BD-A277-F90F41ED7CFE}|Listy dw\u00F3kierunkowe.csproj|c:\\users\\filip\\documents\\github\\aisd181145\\listy dw\u00F3kierunkowe\\slownik.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ECF01392-43F4-43BD-A277-F90F41ED7CFE}|Listy dw\u00F3kierunkowe.csproj|solutionrelative:slownik.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{ECF01392-43F4-43BD-A277-F90F41ED7CFE}|Listy dw\u00F3kierunkowe.csproj|c:\\users\\filip\\documents\\github\\aisd181145\\listy dw\u00F3kierunkowe\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECF01392-43F4-43BD-A277-F90F41ED7CFE}|Listy dw\u00F3kierunkowe.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECF01392-43F4-43BD-A277-F90F41ED7CFE}|Listy dw\u00F3kierunkowe.csproj|c:\\users\\filip\\documents\\github\\aisd181145\\listy dw\u00F3kierunkowe\\element.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECF01392-43F4-43BD-A277-F90F41ED7CFE}|Listy dw\u00F3kierunkowe.csproj|solutionrelative:element.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,20 +30,31 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
+              "Title": "Element.cs",
+              "DocumentMoniker": "C:\\Users\\filip\\Documents\\GitHub\\AiSD181145\\Listy dw\u00F3kierunkowe\\Element.cs",
+              "RelativeDocumentMoniker": "Element.cs",
+              "ToolTip": "C:\\Users\\filip\\Documents\\GitHub\\AiSD181145\\Listy dw\u00F3kierunkowe\\Element.cs",
+              "RelativeToolTip": "Element.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T20:51:07.008Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Slownik.cs",
               "DocumentMoniker": "C:\\Users\\filip\\Documents\\GitHub\\AiSD181145\\Listy dw\u00F3kierunkowe\\Slownik.cs",
               "RelativeDocumentMoniker": "Slownik.cs",
               "ToolTip": "C:\\Users\\filip\\Documents\\GitHub\\AiSD181145\\Listy dw\u00F3kierunkowe\\Slownik.cs",
               "RelativeToolTip": "Slownik.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAmAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-28T19:12:05.087Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-28T19:12:05.087Z"
             },
             {
               "$type": "Document",
@@ -49,20 +64,19 @@
               "RelativeDocumentMoniker": "Lista.cs",
               "ToolTip": "C:\\Users\\filip\\Documents\\GitHub\\AiSD181145\\Listy dw\u00F3kierunkowe\\Lista.cs",
               "RelativeToolTip": "Lista.cs",
-              "ViewState": "AgIAAD8AAAAAAAAAAAAAAEQAAAAhAAAAAAAAAA==",
+              "ViewState": "AgIAADAAAAAAAAAAAAAYwAgAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-28T18:54:35.262Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-28T18:54:35.262Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\filip\\Documents\\GitHub\\AiSD181145\\Listy dw\u00F3kierunkowe\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
               "ToolTip": "C:\\Users\\filip\\Documents\\GitHub\\AiSD181145\\Listy dw\u00F3kierunkowe\\Form1.cs",
               "RelativeToolTip": "Form1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADoAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-28T18:53:49.828Z",
               "EditorCaption": ""

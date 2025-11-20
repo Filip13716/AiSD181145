@@ -30,11 +30,41 @@ namespace Sortowanie_przez_wstawianie_i_wybieranie
         {
             Element nowy = new Element(value);
 
-            tail.Dodaj(nowy);
+            if(tail == null)
+            {
+                tail = nowy;
+                head = nowy;
+            }
 
-            this.tail = nowy;
+            else
+            {
+                tail.next = nowy;
+                nowy.prev = tail;
+                tail = nowy;
+            }
+
+            LiczbaElementow++;
         }
 
-        public void Dodaj(int value,  Element nowy) { }
+        public void Dodaj(int value, Element e)
+        {
+            Element nowy = new Element(value);
+
+            nowy.prev = e.prev;
+            nowy.next = e;
+
+            if (e.prev != null)
+            {
+                e.prev.next = nowy;
+            }
+            else
+            {
+                this.head = nowy;
+            }
+
+            e.prev = nowy;
+
+            LiczbaElementow++;
+        }
     }
 }
