@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\filip\\source\\repos\\Sortowanie przez zliczanie\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C28115EE-ED05-49A7-A249-E28D6EFD3C1D}|Sortowanie przez zliczanie\\Sortowanie przez zliczanie.csproj|c:\\users\\filip\\source\\repos\\sortowanie przez zliczanie\\sortowanie przez zliczanie\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C28115EE-ED05-49A7-A249-E28D6EFD3C1D}|Sortowanie przez zliczanie\\Sortowanie przez zliczanie.csproj|solutionrelative:sortowanie przez zliczanie\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C28115EE-ED05-49A7-A249-E28D6EFD3C1D}|Sortowanie przez zliczanie\\Sortowanie przez zliczanie.csproj|c:\\users\\filip\\source\\repos\\sortowanie przez zliczanie\\sortowanie przez zliczanie\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C28115EE-ED05-49A7-A249-E28D6EFD3C1D}|Sortowanie przez zliczanie\\Sortowanie przez zliczanie.csproj|solutionrelative:sortowanie przez zliczanie\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\filip\\source\\repos\\Sortowanie przez zliczanie\\Sortowanie przez zliczanie\\Form1.cs",
+              "RelativeDocumentMoniker": "Sortowanie przez zliczanie\\Form1.cs",
+              "ToolTip": "C:\\Users\\filip\\source\\repos\\Sortowanie przez zliczanie\\Sortowanie przez zliczanie\\Form1.cs",
+              "RelativeToolTip": "Sortowanie przez zliczanie\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-22T16:01:51.959Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Projekt]",
+              "DocumentMoniker": "C:\\Users\\filip\\source\\repos\\Sortowanie przez zliczanie\\Sortowanie przez zliczanie\\Form1.cs",
+              "RelativeDocumentMoniker": "Sortowanie przez zliczanie\\Form1.cs",
+              "ToolTip": "C:\\Users\\filip\\source\\repos\\Sortowanie przez zliczanie\\Sortowanie przez zliczanie\\Form1.cs [Projekt]",
+              "RelativeToolTip": "Sortowanie przez zliczanie\\Form1.cs [Projekt]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-22T15:40:23.739Z",
+              "EditorCaption": " [Projekt]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

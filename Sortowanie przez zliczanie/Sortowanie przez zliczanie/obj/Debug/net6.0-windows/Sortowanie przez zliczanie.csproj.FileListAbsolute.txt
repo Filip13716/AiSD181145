@@ -1,0 +1,16 @@
+C:\Users\filip\source\repos\Sortowanie przez zliczanie\Sortowanie przez zliczanie\bin\Debug\net6.0-windows\Sortowanie przez zliczanie.exe
+C:\Users\filip\source\repos\Sortowanie przez zliczanie\Sortowanie przez zliczanie\bin\Debug\net6.0-windows\Sortowanie przez zliczanie.deps.json
+C:\Users\filip\source\repos\Sortowanie przez zliczanie\Sortowanie przez zliczanie\bin\Debug\net6.0-windows\Sortowanie przez zliczanie.runtimeconfig.json
+C:\Users\filip\source\repos\Sortowanie przez zliczanie\Sortowanie przez zliczanie\bin\Debug\net6.0-windows\Sortowanie przez zliczanie.dll
+C:\Users\filip\source\repos\Sortowanie przez zliczanie\Sortowanie przez zliczanie\bin\Debug\net6.0-windows\Sortowanie przez zliczanie.pdb
+C:\Users\filip\source\repos\Sortowanie przez zliczanie\Sortowanie przez zliczanie\obj\Debug\net6.0-windows\Sortowanie_przez_zliczanie.Form1.resources
+C:\Users\filip\source\repos\Sortowanie przez zliczanie\Sortowanie przez zliczanie\obj\Debug\net6.0-windows\Sortowanie przez zliczanie.csproj.GenerateResource.cache
+C:\Users\filip\source\repos\Sortowanie przez zliczanie\Sortowanie przez zliczanie\obj\Debug\net6.0-windows\Sortowanie przez zliczanie.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\filip\source\repos\Sortowanie przez zliczanie\Sortowanie przez zliczanie\obj\Debug\net6.0-windows\Sortowanie przez zliczanie.AssemblyInfoInputs.cache
+C:\Users\filip\source\repos\Sortowanie przez zliczanie\Sortowanie przez zliczanie\obj\Debug\net6.0-windows\Sortowanie przez zliczanie.AssemblyInfo.cs
+C:\Users\filip\source\repos\Sortowanie przez zliczanie\Sortowanie przez zliczanie\obj\Debug\net6.0-windows\Sortowanie przez zliczanie.csproj.CoreCompileInputs.cache
+C:\Users\filip\source\repos\Sortowanie przez zliczanie\Sortowanie przez zliczanie\obj\Debug\net6.0-windows\Sortowanie przez zliczanie.dll
+C:\Users\filip\source\repos\Sortowanie przez zliczanie\Sortowanie przez zliczanie\obj\Debug\net6.0-windows\refint\Sortowanie przez zliczanie.dll
+C:\Users\filip\source\repos\Sortowanie przez zliczanie\Sortowanie przez zliczanie\obj\Debug\net6.0-windows\Sortowanie przez zliczanie.pdb
+C:\Users\filip\source\repos\Sortowanie przez zliczanie\Sortowanie przez zliczanie\obj\Debug\net6.0-windows\Sortowanie przez zliczanie.genruntimeconfig.cache
+C:\Users\filip\source\repos\Sortowanie przez zliczanie\Sortowanie przez zliczanie\obj\Debug\net6.0-windows\ref\Sortowanie przez zliczanie.dll

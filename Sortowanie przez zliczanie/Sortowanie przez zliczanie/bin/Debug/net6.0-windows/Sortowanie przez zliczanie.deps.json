@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Sortowanie przez zliczanie/1.0.0": {
+        "runtime": {
+          "Sortowanie przez zliczanie.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Sortowanie przez zliczanie/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
