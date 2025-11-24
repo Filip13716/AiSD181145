@@ -1,0 +1,16 @@
+D:\181145\Binarne drzewo poszukiwań\bin\Debug\net6.0-windows\Binarne drzewo poszukiwań.exe
+D:\181145\Binarne drzewo poszukiwań\bin\Debug\net6.0-windows\Binarne drzewo poszukiwań.deps.json
+D:\181145\Binarne drzewo poszukiwań\bin\Debug\net6.0-windows\Binarne drzewo poszukiwań.runtimeconfig.json
+D:\181145\Binarne drzewo poszukiwań\bin\Debug\net6.0-windows\Binarne drzewo poszukiwań.dll
+D:\181145\Binarne drzewo poszukiwań\bin\Debug\net6.0-windows\Binarne drzewo poszukiwań.pdb
+D:\181145\Binarne drzewo poszukiwań\obj\Debug\net6.0-windows\Binarne_drzewo_poszukiwań.Form1.resources
+D:\181145\Binarne drzewo poszukiwań\obj\Debug\net6.0-windows\Binarne drzewo poszukiwań.csproj.GenerateResource.cache
+D:\181145\Binarne drzewo poszukiwań\obj\Debug\net6.0-windows\Binarne drzewo poszukiwań.GeneratedMSBuildEditorConfig.editorconfig
+D:\181145\Binarne drzewo poszukiwań\obj\Debug\net6.0-windows\Binarne drzewo poszukiwań.AssemblyInfoInputs.cache
+D:\181145\Binarne drzewo poszukiwań\obj\Debug\net6.0-windows\Binarne drzewo poszukiwań.AssemblyInfo.cs
+D:\181145\Binarne drzewo poszukiwań\obj\Debug\net6.0-windows\Binarne drzewo poszukiwań.csproj.CoreCompileInputs.cache
+D:\181145\Binarne drzewo poszukiwań\obj\Debug\net6.0-windows\Binarne drzewo poszukiwań.dll
+D:\181145\Binarne drzewo poszukiwań\obj\Debug\net6.0-windows\refint\Binarne drzewo poszukiwań.dll
+D:\181145\Binarne drzewo poszukiwań\obj\Debug\net6.0-windows\Binarne drzewo poszukiwań.pdb
+D:\181145\Binarne drzewo poszukiwań\obj\Debug\net6.0-windows\Binarne drzewo poszukiwań.genruntimeconfig.cache
+D:\181145\Binarne drzewo poszukiwań\obj\Debug\net6.0-windows\ref\Binarne drzewo poszukiwań.dll
