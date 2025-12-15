@@ -1,0 +1,16 @@
+D:\181145\Obracanie drzewa\bin\Debug\net8.0-windows\Obracanie drzewa.exe
+D:\181145\Obracanie drzewa\bin\Debug\net8.0-windows\Obracanie drzewa.deps.json
+D:\181145\Obracanie drzewa\bin\Debug\net8.0-windows\Obracanie drzewa.runtimeconfig.json
+D:\181145\Obracanie drzewa\bin\Debug\net8.0-windows\Obracanie drzewa.dll
+D:\181145\Obracanie drzewa\bin\Debug\net8.0-windows\Obracanie drzewa.pdb
+D:\181145\Obracanie drzewa\obj\Debug\net8.0-windows\Obracanie_drzewa.Form1.resources
+D:\181145\Obracanie drzewa\obj\Debug\net8.0-windows\Obracanie drzewa.csproj.GenerateResource.cache
+D:\181145\Obracanie drzewa\obj\Debug\net8.0-windows\Obracanie drzewa.GeneratedMSBuildEditorConfig.editorconfig
+D:\181145\Obracanie drzewa\obj\Debug\net8.0-windows\Obracanie drzewa.AssemblyInfoInputs.cache
+D:\181145\Obracanie drzewa\obj\Debug\net8.0-windows\Obracanie drzewa.AssemblyInfo.cs
+D:\181145\Obracanie drzewa\obj\Debug\net8.0-windows\Obracanie drzewa.csproj.CoreCompileInputs.cache
+D:\181145\Obracanie drzewa\obj\Debug\net8.0-windows\Obracanie drzewa.dll
+D:\181145\Obracanie drzewa\obj\Debug\net8.0-windows\refint\Obracanie drzewa.dll
+D:\181145\Obracanie drzewa\obj\Debug\net8.0-windows\Obracanie drzewa.pdb
+D:\181145\Obracanie drzewa\obj\Debug\net8.0-windows\Obracanie drzewa.genruntimeconfig.cache
+D:\181145\Obracanie drzewa\obj\Debug\net8.0-windows\ref\Obracanie drzewa.dll
