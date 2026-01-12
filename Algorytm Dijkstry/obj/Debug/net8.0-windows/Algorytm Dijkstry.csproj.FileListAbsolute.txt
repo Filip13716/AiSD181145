@@ -1,0 +1,16 @@
+D:\181145\Algorytm Dijkstry\bin\Debug\net8.0-windows\Algorytm Dijkstry.exe
+D:\181145\Algorytm Dijkstry\bin\Debug\net8.0-windows\Algorytm Dijkstry.deps.json
+D:\181145\Algorytm Dijkstry\bin\Debug\net8.0-windows\Algorytm Dijkstry.runtimeconfig.json
+D:\181145\Algorytm Dijkstry\bin\Debug\net8.0-windows\Algorytm Dijkstry.dll
+D:\181145\Algorytm Dijkstry\bin\Debug\net8.0-windows\Algorytm Dijkstry.pdb
+D:\181145\Algorytm Dijkstry\obj\Debug\net8.0-windows\Algorytm_Dijkstry.Form1.resources
+D:\181145\Algorytm Dijkstry\obj\Debug\net8.0-windows\Algorytm Dijkstry.csproj.GenerateResource.cache
+D:\181145\Algorytm Dijkstry\obj\Debug\net8.0-windows\Algorytm Dijkstry.GeneratedMSBuildEditorConfig.editorconfig
+D:\181145\Algorytm Dijkstry\obj\Debug\net8.0-windows\Algorytm Dijkstry.AssemblyInfoInputs.cache
+D:\181145\Algorytm Dijkstry\obj\Debug\net8.0-windows\Algorytm Dijkstry.AssemblyInfo.cs
+D:\181145\Algorytm Dijkstry\obj\Debug\net8.0-windows\Algorytm Dijkstry.csproj.CoreCompileInputs.cache
+D:\181145\Algorytm Dijkstry\obj\Debug\net8.0-windows\Algorytm Dijkstry.dll
+D:\181145\Algorytm Dijkstry\obj\Debug\net8.0-windows\refint\Algorytm Dijkstry.dll
+D:\181145\Algorytm Dijkstry\obj\Debug\net8.0-windows\Algorytm Dijkstry.pdb
+D:\181145\Algorytm Dijkstry\obj\Debug\net8.0-windows\Algorytm Dijkstry.genruntimeconfig.cache
+D:\181145\Algorytm Dijkstry\obj\Debug\net8.0-windows\ref\Algorytm Dijkstry.dll
