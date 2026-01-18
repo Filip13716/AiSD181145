@@ -1,0 +1,16 @@
+C:\Users\filip\Documents\C#\Listy dwukierunkowe\bin\Debug\net6.0-windows\Listy dwukierunkowe.exe
+C:\Users\filip\Documents\C#\Listy dwukierunkowe\bin\Debug\net6.0-windows\Listy dwukierunkowe.deps.json
+C:\Users\filip\Documents\C#\Listy dwukierunkowe\bin\Debug\net6.0-windows\Listy dwukierunkowe.runtimeconfig.json
+C:\Users\filip\Documents\C#\Listy dwukierunkowe\bin\Debug\net6.0-windows\Listy dwukierunkowe.dll
+C:\Users\filip\Documents\C#\Listy dwukierunkowe\bin\Debug\net6.0-windows\Listy dwukierunkowe.pdb
+C:\Users\filip\Documents\C#\Listy dwukierunkowe\obj\Debug\net6.0-windows\Listy_dwukierunkowe.Form1.resources
+C:\Users\filip\Documents\C#\Listy dwukierunkowe\obj\Debug\net6.0-windows\Listy dwukierunkowe.csproj.GenerateResource.cache
+C:\Users\filip\Documents\C#\Listy dwukierunkowe\obj\Debug\net6.0-windows\Listy dwukierunkowe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\filip\Documents\C#\Listy dwukierunkowe\obj\Debug\net6.0-windows\Listy dwukierunkowe.AssemblyInfoInputs.cache
+C:\Users\filip\Documents\C#\Listy dwukierunkowe\obj\Debug\net6.0-windows\Listy dwukierunkowe.AssemblyInfo.cs
+C:\Users\filip\Documents\C#\Listy dwukierunkowe\obj\Debug\net6.0-windows\Listy dwukierunkowe.csproj.CoreCompileInputs.cache
+C:\Users\filip\Documents\C#\Listy dwukierunkowe\obj\Debug\net6.0-windows\Listy dwukierunkowe.dll
+C:\Users\filip\Documents\C#\Listy dwukierunkowe\obj\Debug\net6.0-windows\refint\Listy dwukierunkowe.dll
+C:\Users\filip\Documents\C#\Listy dwukierunkowe\obj\Debug\net6.0-windows\Listy dwukierunkowe.pdb
+C:\Users\filip\Documents\C#\Listy dwukierunkowe\obj\Debug\net6.0-windows\Listy dwukierunkowe.genruntimeconfig.cache
+C:\Users\filip\Documents\C#\Listy dwukierunkowe\obj\Debug\net6.0-windows\ref\Listy dwukierunkowe.dll
