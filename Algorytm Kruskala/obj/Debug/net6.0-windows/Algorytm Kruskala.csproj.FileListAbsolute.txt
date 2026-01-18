@@ -1,0 +1,16 @@
+C:\Users\filip\Documents\C#\Algorytm Kruskala\bin\Debug\net6.0-windows\Algorytm Kruskala.exe
+C:\Users\filip\Documents\C#\Algorytm Kruskala\bin\Debug\net6.0-windows\Algorytm Kruskala.deps.json
+C:\Users\filip\Documents\C#\Algorytm Kruskala\bin\Debug\net6.0-windows\Algorytm Kruskala.runtimeconfig.json
+C:\Users\filip\Documents\C#\Algorytm Kruskala\bin\Debug\net6.0-windows\Algorytm Kruskala.dll
+C:\Users\filip\Documents\C#\Algorytm Kruskala\bin\Debug\net6.0-windows\Algorytm Kruskala.pdb
+C:\Users\filip\Documents\C#\Algorytm Kruskala\obj\Debug\net6.0-windows\Algorytm_Kruskala.Form1.resources
+C:\Users\filip\Documents\C#\Algorytm Kruskala\obj\Debug\net6.0-windows\Algorytm Kruskala.csproj.GenerateResource.cache
+C:\Users\filip\Documents\C#\Algorytm Kruskala\obj\Debug\net6.0-windows\Algorytm Kruskala.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\filip\Documents\C#\Algorytm Kruskala\obj\Debug\net6.0-windows\Algorytm Kruskala.AssemblyInfoInputs.cache
+C:\Users\filip\Documents\C#\Algorytm Kruskala\obj\Debug\net6.0-windows\Algorytm Kruskala.AssemblyInfo.cs
+C:\Users\filip\Documents\C#\Algorytm Kruskala\obj\Debug\net6.0-windows\Algorytm Kruskala.csproj.CoreCompileInputs.cache
+C:\Users\filip\Documents\C#\Algorytm Kruskala\obj\Debug\net6.0-windows\Algorytm Kruskala.dll
+C:\Users\filip\Documents\C#\Algorytm Kruskala\obj\Debug\net6.0-windows\refint\Algorytm Kruskala.dll
+C:\Users\filip\Documents\C#\Algorytm Kruskala\obj\Debug\net6.0-windows\Algorytm Kruskala.pdb
+C:\Users\filip\Documents\C#\Algorytm Kruskala\obj\Debug\net6.0-windows\Algorytm Kruskala.genruntimeconfig.cache
+C:\Users\filip\Documents\C#\Algorytm Kruskala\obj\Debug\net6.0-windows\ref\Algorytm Kruskala.dll

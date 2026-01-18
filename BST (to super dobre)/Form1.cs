@@ -99,5 +99,44 @@ namespace Kolo
             if (node.right != null) postorder(node.right, list);
             list.Add(node.value);
         }
+
+        private void bt_wid_Click(object sender, EventArgs e)
+        {
+            List<int> list = new List<int>();
+
+            Width(list);
+
+            lb_out.Text=String.Join(", ", list);
+        }
+
+        private int GetHeight(Node node)
+        {
+            if (node == null) return 0;
+
+            return Math.Max(GetHeight(node.left), GetHeight(node.right)) + 1;
+        }
+
+        private void PrintCurrentLevel(Node node, int level, List<int> list)
+        {
+            if (node == null) return;
+
+            if (level == 1) list.Add(node.value);
+
+            else if(level > 1)
+            {
+                PrintCurrentLevel(node.left, level - 1, list);
+                PrintCurrentLevel(node.right, level - 1, list);
+            }
+        }
+
+        private void Width(List<int> list)
+        {
+            int h = GetHeight(tree.root);
+
+            for(int i = 1; i<=h; i++)
+            {
+                PrintCurrentLevel(tree.root, i, list);
+            }
+        }
     }
 }

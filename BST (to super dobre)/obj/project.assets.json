@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\filip\\Desktop\\bst-main\\Kolo.csproj",
+      "projectUniqueName": "C:\\Users\\filip\\Desktop\\BST (to super dobre)\\Kolo.csproj",
       "projectName": "Kolo",
-      "projectPath": "C:\\Users\\filip\\Desktop\\bst-main\\Kolo.csproj",
+      "projectPath": "C:\\Users\\filip\\Desktop\\BST (to super dobre)\\Kolo.csproj",
       "packagesPath": "C:\\Users\\filip\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\filip\\Desktop\\bst-main\\obj\\",
+      "outputPath": "C:\\Users\\filip\\Desktop\\BST (to super dobre)\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

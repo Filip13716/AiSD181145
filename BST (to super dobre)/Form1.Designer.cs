@@ -37,6 +37,7 @@
             bt_pre = new Button();
             bt_in = new Button();
             bt_pos = new Button();
+            bt_wid = new Button();
             ((System.ComponentModel.ISupportInitialize)pictureBox1).BeginInit();
             SuspendLayout();
             // 
@@ -126,11 +127,22 @@
             bt_pos.UseVisualStyleBackColor = true;
             bt_pos.Click += bt_pos_Click;
             // 
+            // bt_wid
+            // 
+            bt_wid.Location = new Point(794, 559);
+            bt_wid.Name = "bt_wid";
+            bt_wid.Size = new Size(94, 29);
+            bt_wid.TabIndex = 9;
+            bt_wid.Text = "Wszerz";
+            bt_wid.UseVisualStyleBackColor = true;
+            bt_wid.Click += bt_wid_Click;
+            // 
             // Form1
             // 
             AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(914, 600);
+            Controls.Add(bt_wid);
             Controls.Add(bt_pos);
             Controls.Add(bt_in);
             Controls.Add(bt_pre);
@@ -160,5 +172,6 @@
         private Button bt_pre;
         private Button bt_in;
         private Button bt_pos;
+        private Button bt_wid;
     }
 }

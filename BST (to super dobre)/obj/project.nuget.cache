@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "oHDvRuucUA0=",
+  "dgSpecHash": "dX2kNs4Qydo=",
   "success": true,
-  "projectFilePath": "C:\\Users\\filip\\Desktop\\bst-main\\Kolo.csproj",
+  "projectFilePath": "C:\\Users\\filip\\Desktop\\BST (to super dobre)\\Kolo.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\filip\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.36\\microsoft.windowsdesktop.app.ref.6.0.36.nupkg.sha512",
     "C:\\Users\\filip\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.36\\microsoft.netcore.app.ref.6.0.36.nupkg.sha512",
